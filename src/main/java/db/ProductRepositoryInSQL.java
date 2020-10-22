@@ -22,7 +22,7 @@ public class ProductRepositoryInSQL implements ProductRepository {
 		Properties properties = new Properties();
 		String url = "jdbc:postgresql://gegevensbanken.khleuven.be:51516/2TX33";
 		properties.setProperty("user", "r0372092");
-		properties.setProperty("password", "Airbu1331");
+		properties.setProperty("password", "*****");
 		properties.setProperty("ssl", "true");
 		properties.setProperty("sslfactory", "org.postgresql.ssl.NonValidatingFactory");
 		try
