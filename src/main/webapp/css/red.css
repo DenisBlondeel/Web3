@@ -1,0 +1,49 @@
+body {
+	color: #510407;
+	background-color: #510407;
+}
+
+footer {
+	background-color: #f13845;
+}
+
+nav ul {
+	background-color: #f13845;
+}
+
+nav ul li a {
+	color: #510407;
+}
+
+nav ul li#actual {
+	background-color: #e192a2;
+}
+
+#ChangeColor{
+	background-color: #977007;
+    border: none;
+    color: white;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    display: inline-block;
+  	float: left;
+  	position:relative;
+}
+
+h1 {
+	background-image: url("../images/bannerRedSmall.png");
+}
+
+@media screen and (min-width: 650px) {
+	h1 {
+		background-image: url("../images/bannerRed.png");
+	}
+}
+
+
+/* e192a2 white
+f13845 bright pink
+700407 dark
+510407 black
+*/

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<entry key="default">handlers.IndexPage</entry>
+	<entry key="index">handlers.IndexPage</entry>
+	<entry key="overview">handlers.PersonOverview</entry>
+	<entry key="productoverview">handlers.ProductOverview</entry>
+	<entry key="signUppage">handlers.SignUpPage</entry>
+	<entry key="addproductpage">handlers.AddProductPage</entry>
+	<entry key="updatepage">handlers.UpdatePage</entry>
+	<entry key="deletepageproduct">handlers.DeleteProductPage</entry>
+	<entry key="deletepageperson">handlers.DeletePersonPage</entry>
+	<entry key="signUpaction">handlers.SignUpAction</entry>
+	<entry key="addproductaction">handlers.AddProductAction</entry>
+	<entry key="updateaction">handlers.UpdateAction</entry>
+	<entry key="deleteactionproduct">handlers.DeleteProductAction</entry>
+	<entry key="deleteactionperson">handlers.DeletePersonAction</entry>
+	<entry key="login">handlers.LoginAction</entry>
+	<entry key="logout">handlers.LogoutAction</entry>
+	<entry key="flipcolor">handlers.ChangeColorAction</entry>
+	<entry key="addtocartaction">handlers.AddToCartAction</entry>
+	<entry key="cartpage">handlers.CartPage</entry>
+</properties>
